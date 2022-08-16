@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+i {
+  cursor: pointer;
+}
+
+i.fa-trash-alt:hover{
+  color: red;
+}
+i.fa-edit:hover{
+color: rgb(76, 126, 219);
+}
